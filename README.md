@@ -1,4 +1,4 @@
-Autor : Codron Julien 30/11/2021
+Autor : Codron Julien 11/30/2021
 version : 4
 
 This software implement a linear algebra library, with basique fonction for Vector and Matrix. With objective to implement a rasterizer, to display 3d object.
