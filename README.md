@@ -1,5 +1,10 @@
-Autor : Codron Julien 11/30/2021
+Autor : Codron Julien 
+Last Update : 11/30/2021
 version : 4
+
+-----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------- RASTERIZER ------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
 This software implement a linear algebra library, with basique fonction for Vector and Matrix. With objective to implement a rasterizer, to display 3d object.
 Only work on Linux (done on Ubuntu).
